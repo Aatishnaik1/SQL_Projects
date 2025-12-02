@@ -1,4 +1,4 @@
-📘 Employee Management System – SQL Project
+### 📘 Employee Management System – SQL Project
 
 This project is a complete SQL-based Employee Management System built using MySQL.
 It covers database creation, table design, data insertion, constraints, joins, CRUD operations, salary updates, analytical queries, and advanced SQL functions.
@@ -23,7 +23,7 @@ DepartmentName
 
 2️⃣ Employees
 
-Stores employee details.
+### Stores employee details.
 
 EmployeeID (PK)
 FirstName
@@ -34,7 +34,7 @@ Salary
 
 3️⃣ Projects
 
-Stores project information.
+### Stores project information.
 
 ProjectID (PK)
 ProjectName
@@ -56,13 +56,9 @@ Primary Key: (EmployeeID, ProjectID)
 You inserted 5 departments:
 
 Human Resources
-
 Finance
-
 IT
-
 Marketing
-
 Operations
 
 ✔ Employees
@@ -81,16 +77,12 @@ Salary (after adding the Salary column)
 
 ✔ Projects
 
-Each project belongs to a department:
+### Each project belongs to a department:
 
 Sales System
-
 Employee Tracker
-
 Inventory App
-
 Customer Report
-
 Finance Tool
 
 Then you renamed all projects to new names (using UPDATE).
@@ -173,36 +165,22 @@ A cleanup operation.
 
 🧠 6. Advanced SQL Concepts Used
 
-Your project demonstrates:
+project demonstrates:
 
 ✔ Primary Keys
-
 ✔ Foreign Keys
-
 ✔ Many-to-many relationships
-
 ✔ INNER JOIN
-
 ✔ LEFT JOIN
-
 ✔ GROUP BY
-
 ✔ HAVING
-
 ✔ ORDER BY
-
 ✔ LIMIT
-
 ✔ Window Functions
-
 ✔ Aggregates (SUM, AVG, MIN, MAX, COUNT)
-
 ✔ DATEDIFF
-
 ✔ CASE expression
-
 ✔ UPDATE + JOIN
-
 ✔ DELETE filtering
 
 This makes the project industry standard for SQL portfolio practice.
@@ -212,21 +190,13 @@ This makes the project industry standard for SQL portfolio practice.
 By completing this project, you have practiced:
 
 Database design
-
 Creating relational schema
-
 Data population
-
 CRUD operations
-
 Writing efficient joins
-
 Analytical SQL
-
 Reporting-style SQL
-
 Working with date functions
-
 Salary management logic
 
 🏁 8. Conclusion
@@ -234,9 +204,7 @@ Salary management logic
 This project is a complete SQL system managing:
 
 Departments
-
 Employees
-
 Projects
 
 Many-to-many employee–project mapping
