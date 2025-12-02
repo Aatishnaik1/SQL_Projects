@@ -167,21 +167,21 @@ A cleanup operation.
 
 project demonstrates:
 
-✔ Primary Keys
-✔ Foreign Keys
-✔ Many-to-many relationships
-✔ INNER JOIN
-✔ LEFT JOIN
-✔ GROUP BY
-✔ HAVING
-✔ ORDER BY
-✔ LIMIT
-✔ Window Functions
-✔ Aggregates (SUM, AVG, MIN, MAX, COUNT)
-✔ DATEDIFF
-✔ CASE expression
-✔ UPDATE + JOIN
-✔ DELETE filtering
+ *  Primary Keys
+ *  Foreign Keys
+ *  Many-to-many relationships
+ *  INNER JOIN
+ *  LEFT JOIN
+ *  GROUP BY
+ *  HAVING
+ *  ORDER BY
+ *  LIMIT
+ *  Window Functions
+ *  Aggregates (SUM, AVG, MIN, MAX, COUNT)
+ *  DATEDIFF
+ *  CASE expression
+ *  UPDATE + JOIN
+ *  DELETE filtering
 
 This makes the project industry standard for SQL portfolio practice.
 
